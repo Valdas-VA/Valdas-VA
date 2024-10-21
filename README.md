@@ -1,16 +1,23 @@
-## Hi there 👋
+# Sveiki atvykę!
 
-<!--
-**Valdas-VA/Valdas-VA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=Valdas-VA&style=flat-square)
 
-Here are some ideas to get you started:
+## Kas aš?
+Aš esu jaunesnysis duomenų analitikas, baigęs Vilnius Coding School, ir esu įsipareigojęs kurti prasmę iš duomenų.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mano įrankiai
+- **Python** 🐍: Pagrindinis mano įrankis analizuojant duomenis.
+- **MySQL** 💾: Užklausų rašymas ir duomenų bazės valdymas.
+- **Power BI** 📊: Vizualizacijos kūrimas, kad duomenys kalbėtų.
+
+## Paskutiniai projektai
+1. **[Projektas 1](#)** - []
+2. **[Projektas 2](#)** - []
+
+## Kodėl duomenys?
+Duomenys yra galia, ir aš tikiu, kad kiekvienas duomuo pasakoja savo istoriją. Mano tikslas – padėti organizacijoms išgirsti šias istorijas.
+
+## Susisiekite su manimi
+- **LinkedIn**: [Profilis](#)
+- **El. paštas**: [va.valdasram@email.com]
+
